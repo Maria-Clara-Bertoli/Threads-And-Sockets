@@ -4,8 +4,6 @@ This repository contains the implementation of a **client-server application** t
 
 📡 The **client** sends images to the server, and the **server** performs **face detection** on the received images.
 
----
-
 ## ⚙️ Features
 
 - 🤝 Client-server communication via **Sockets**  
@@ -13,12 +11,9 @@ This repository contains the implementation of a **client-server application** t
 - 🧍‍♂️ **Face detection** in the received images  
 - 🧵 Use of **concurrent processing** to improve performance  
 
----
-
 ## 🛠️ Technologies Used
 
 - Java ☕  
 - Sockets 🔌  
 - Concurrent processing (threads) ⚡  
 - Computer vision libraries (**OpenCV**) 👁️
-   
