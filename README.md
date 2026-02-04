@@ -1,20 +1,24 @@
-# 🧠💻 Detecção de Faces Via Sockets e Processamento Concorrente
+# 🧠💻 Face Detection via Sockets and Concurrent Processing
 
-Este repositório contém a implementação de uma aplicação cliente-servidor que utiliza **Sockets** para efetuar a comunicação em rede.
+This repository contains the implementation of a **client-server application** that uses **Sockets** to perform network communication.
 
-📡 O **cliente** envia imagens ao servidor, e o **servidor** realiza a **detecção de faces** nessas imagens.
+📡 The **client** sends images to the server, and the **server** performs **face detection** on the received images.
 
-## ⚙️ Funcionalidades
-- 🤝 Comunicação entre cliente e servidor via **Sockets**
-- 🖼️ Envio de **imagens** do cliente para o servidor
-- 🧍‍♂️ Detecção de **faces** nas imagens recebidas
-- 🧵 Utilização de **processamento concorrente** para otimizar a performance
+---
 
-## 🛠️ Tecnologias Utilizadas
-- Java ☕
-- Sockets 🔌
-- Processamento concorrente (threads) ⚡
-- Bibliotecas de visão computacional (OpenCV) 👁️
+## ⚙️ Features
 
+- 🤝 Client-server communication via **Sockets**  
+- 🖼️ Transmission of **images** from the client to the server  
+- 🧍‍♂️ **Face detection** in the received images  
+- 🧵 Use of **concurrent processing** to improve performance  
 
+---
+
+## 🛠️ Technologies Used
+
+- Java ☕  
+- Sockets 🔌  
+- Concurrent processing (threads) ⚡  
+- Computer vision libraries (**OpenCV**) 👁️
    
